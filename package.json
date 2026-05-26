@@ -1,0 +1,18 @@
+{
+  "name": "com.vaultproductions.tools",
+  "version": "1.0.0",
+  "displayName": "Vault Productions Tools",
+  "description": "Editor tools used by Vault Productions for Android build setup, Play Store release settings, signing, and runtime debugger toggles.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Vault Productions"
+  },
+  "keywords": [
+    "vault productions",
+    "android",
+    "build",
+    "play store",
+    "keystore",
+    "debugger"
+  ]
+}
